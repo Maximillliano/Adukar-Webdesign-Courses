@@ -10,11 +10,13 @@
 3. Анализ окружающей среды на гармонию и дисгармонию элементов (вывесок и баннеров)
 
 ## Занятие 2. Знакомство с Adobe Photoshop [(Презентация)](https://drive.google.com/open?id=1TL3OzDy9cUL_mc73CwbFY849ajHm5Z_2)
+[Материалы для урока](https://drive.google.com/open?id=1ARLRaNDH6i5gdUNppFF8BLPFg6EwbdN-)
 
 **Домашняя работа:**
-1.	Создать копию понравившейся Афиши
+1.	Создать копию Афиши «Мужчина на фоне»
 2.	Ретушь собственной фотографии
-
+[Книга по Photoshop №1](https://drive.google.com/open?id=1VPgTvNb_RNSqhMz8dVFSyLGqFi-hdl0O)
+[Книга по Photoshop №2](https://drive.google.com/open?id=1NwlNGd-HETCIglNKn9wjXGtlTmU7KXV1)
 ## 3. Основы HTML
 
 [Презентация](https://docs.google.com/presentation/d/1WgUWIp_JkCTRVB6V4jDXOt1cN694DYananXn-s5GSOg)
