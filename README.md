@@ -1,6 +1,6 @@
 # АДУКАР КУРСЫ ПО WEB-ДИЗАЙНУ
 
-## Занятие 0. КУРС WEB-ДИЗАЙН [(Презентация)](https://drive.google.com/open?id=1idB0b6GEHhjtvQE2xdXgrtWQjUz8_Nxv)
+## **Занятие 0.** КУРС WEB-ДИЗАЙН [(Презентация)](https://drive.google.com/open?id=1idB0b6GEHhjtvQE2xdXgrtWQjUz8_Nxv)
 
 ## Занятие 1. Введение в профессию веб-дизайнер [(Презентация)](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
 
