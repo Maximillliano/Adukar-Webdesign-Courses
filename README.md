@@ -1,13 +1,17 @@
 # АДУКАР КУРСЫ ПО WEB-ДИЗАЙНУ
 
-## Занятие №0. КУРС WEB-ДИЗАЙН
+## Занятие 0. КУРС WEB-ДИЗАЙН
 
 [Презентация](https://drive.google.com/open?id=1idB0b6GEHhjtvQE2xdXgrtWQjUz8_Nxv)
 
-## 1. Введение в Web-разработку
+## Занятие 1. Введение в профессию веб-дизайнер
 
-[Презентация](https://docs.google.com/presentation/d/1wUQpBTnJede8VzNmu4jenm_jfS6ZLNx8iNS4sUVgXJE)
-[Домашнее задание](task1.pdf)
+[Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
+
+**Домашняя работа:**
+1. Установка программ: Adobe Photoshop
+2. Подписаться на группы ВК, сайты, значимых фигур и скачать литературу
+3. Анализ окружающей среды на гармонию и дисгармонию элементов (вывесок и баннеров)
 
 ## 2. Система контроля версий. IDE и редакторы
 
