@@ -1,8 +1,8 @@
-# Adukar-Webdesign-Courses
+# АДУКАР КУРСЫ ПО WEB-ДИЗАЙНУ
 
-## 0. О чём этот курс
+## Занятие №0. КУРС WEB-ДИЗАЙН
 
-[Презентация](https://docs.google.com/presentation/d/1zfDRP1nq9DJJbuWsHeGOGXB_qqSscd-lUq0fVfs7E0o)
+[Презентация](https://drive.google.com/open?id=1idB0b6GEHhjtvQE2xdXgrtWQjUz8_Nxv)
 
 ## 1. Введение в Web-разработку
 
