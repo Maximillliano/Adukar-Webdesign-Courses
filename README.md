@@ -16,6 +16,8 @@
 1.	Создать копию [Афиши «Мужчина на фоне»](https://drive.google.com/open?id=1KOd4vhTMVIzN8hxUhcP-6ySjFKFLMFkF)
 2.	Ретушь собственной фотографии
 
+[Быстрые клавиши в PSD](https://github.com/Maximillliano/Adukar-Webdesign-Courses/blob/master/%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B5%20%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D1%88%D0%B8%20%D0%B2%20PS.txt)
+
 [Книга по Photoshop №1](https://drive.google.com/open?id=1VPgTvNb_RNSqhMz8dVFSyLGqFi-hdl0O),
 [Книга по Photoshop №2](https://drive.google.com/open?id=1NwlNGd-HETCIglNKn9wjXGtlTmU7KXV1)
 
