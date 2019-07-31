@@ -13,9 +13,9 @@
 2. Подписаться на группы ВК, сайты, значимых фигур и скачать литературу
 3. Анализ окружающей среды на гармонию и дисгармонию элементов (вывесок и баннеров)
 
-## 2. Система контроля версий. IDE и редакторы
+## Занятие 2. Знакомство с Adobe Photoshop
 
-[Презентация](https://docs.google.com/presentation/d/1M50_SoNbUufRwT_sYNnCDfVGrf48aAsivAaSQh1pKdk)
+[Презентация](https://drive.google.com/open?id=1TL3OzDy9cUL_mc73CwbFY849ajHm5Z_2)
 
 ## 3. Основы HTML
 
