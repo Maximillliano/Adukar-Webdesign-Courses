@@ -6,7 +6,7 @@
 
 **Домашняя работа:**
 1. Установка программы: Adobe Photoshop
-2. [Подписаться на группы ВК](https://github.com/Maximillliano/Adukar-Webdesign-Courses/blob/master/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B%20%D0%B8%20%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8.txt), сайты, значимых фигур и скачать литературу
+2. [Подписаться на группы ВК](docs/FAQ.md#Группы), сайты, значимых фигур и скачать литературу
 3. Анализ окружающей среды на гармонию и дисгармонию элементов (вывесок и баннеров)
 
 ## Занятие 2. Знакомство с Adobe Photoshop [(Презентация)](https://drive.google.com/open?id=1TL3OzDy9cUL_mc73CwbFY849ajHm5Z_2)
