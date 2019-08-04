@@ -28,7 +28,6 @@
 
 ## Содержание:
 - [Цели](#цели)
-- [Быстрые клавиши в PSD](FAQ.md)
 - [0. Курс Web-дизайн](#0-курс-web-дизайн)
 - [1. Введение в профессию веб-дизайнера](#1-введение-в-профессию-веб-дизайнера)
 - [2. Знакомство с Adobe Photoshop](#2-знакомство-с-adobe-photoshop)
@@ -90,6 +89,7 @@
   - [Материалы для урока](https://drive.google.com/open?id=1ARLRaNDH6i5gdUNppFF8BLPFg6EwbdN-)
   - [Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
   - [Книга по Photoshop №1](https://drive.google.com/open?id=1VPgTvNb_RNSqhMz8dVFSyLGqFi-hdl0O), [Книга по Photoshop №2](https://drive.google.com/open?id=1NwlNGd-HETCIglNKn9wjXGtlTmU7KXV1)
+  - [Быстрые клавиши в PSD](FAQ.md)
   - **🏠 Домашняя работа:**
     1. Доработка дизайна [Баннера (для группы ВК)](https://drive.google.com/open?id=1HT4X3TmitQNWnsEPrYHkBL54zGpdnWm-)
     2. Создать копию [Афиши «Мужчина на фоне»](https://drive.google.com/open?id=1KOd4vhTMVIzN8hxUhcP-6ySjFKFLMFkF)
@@ -138,7 +138,7 @@
   - **🏠 Домашняя работа:**
     1. Завершить [редизайн элементов Спортивного сайта](https://drive.google.com/open?id=1qs5MNEH8zElr5MBrf_HOrj-_UtKIcIXu)
     2. Редизайн формы входа (login, registration)
-    3. [Поиск и выбор реального проекта по редизайну(https://drive.google.com/open?id=1fDjE3RuprqxXdFPGcuXauO6CeQESi3i-)
+    3. [Поиск и выбор реального проекта по редизайну](https://drive.google.com/open?id=1fDjE3RuprqxXdFPGcuXauO6CeQESi3i-)
 
 - ### 11. Личный редизайн (1 часть)
   - [Материалы для урока](https://drive.google.com/open?id=1fDjE3RuprqxXdFPGcuXauO6CeQESi3i-)
