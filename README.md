@@ -52,32 +52,34 @@
   - [Материалы для урока](https://drive.google.com/open?id=1ARLRaNDH6i5gdUNppFF8BLPFg6EwbdN-)
   - [Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
   - [Книга по Photoshop №1](https://drive.google.com/open?id=1VPgTvNb_RNSqhMz8dVFSyLGqFi-hdl0O), [Книга по Photoshop №2](https://drive.google.com/open?id=1NwlNGd-HETCIglNKn9wjXGtlTmU7KXV1)
-  - 🏠 Домашняя работа:
+  
+  - **🏠 Домашняя работа:**
     1. Доработка дизайна [Баннера (для группы ВК)](https://drive.google.com/open?id=1HT4X3TmitQNWnsEPrYHkBL54zGpdnWm-)
     2. Создать копию [Афиши «Мужчина на фоне»](https://drive.google.com/open?id=1KOd4vhTMVIzN8hxUhcP-6ySjFKFLMFkF)
 
 - ### 3. Практика в Adobe Photoshop
-  - [Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
+  - [Презентация](https://drive.google.com/open?id=11V5gOGZMygQGiYUxAVylrNYZ_f1_dTwI)
   - **🏠 Домашняя работа:**
     1. [Создание дизайна афиши для ВК](https://drive.google.com/open?id=1HT4X3TmitQNWnsEPrYHkBL54zGpdnWm-)
 
-- ### 3. Практика в Adobe Photoshop
-  - [Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
+- ### 4. Первый проект в Adobe Photoshop
+  - [Презентация](https://drive.google.com/open?id=1_1PWGlIM-oyNrqZltYRGCj2z6Nw95g1V)
   - **🏠 Домашняя работа:**
-    1. [Создание дизайна афиши для ВК](https://drive.google.com/open?id=1HT4X3TmitQNWnsEPrYHkBL54zGpdnWm-)
+    1. Завершить [Проект «Промо сайт (Стартап)»](https://drive.google.com/drive/folders/1--a1drmDs6X_f7tPxulTTQszvJoz_86L?usp=sharing)
 
+- ### 5. Собственный проект в Adobe Photoshop
+  - [Презентация](https://drive.google.com/open?id=1bu_tlmw7UUPeL7nD56l6mp1YwVI6o1Oj)
+  - **🏠 Домашняя работа:**
+    1. Завершить Проект «Мой промо сайт»
+    2. Установка программы: Adobe Illustrator
 
-
-
-Занятие 4. Первый проект в Adobe Photoshop
-•	Завершить Проект «Промо сайт (Стартап)» 
-
-
-
-Занятие 5. Собственный проект в Adobe Photoshop
-•	Создать 3 иконки для дополнения финансового сета
-
-
+- ### 6. Знакомство с Adobe Illustrator
+  - [Материалы для урока](https://drive.google.com/drive/folders/1abDm_WEzBN35pBf9KAcNiYbnN0_RRbv5?usp=sharing)
+  - [Презентация](https://drive.google.com/open?id=1DJusv5axZTkuzwJu3AF0gtBXRMBxU4Px)
+  - **🏠 Домашняя работа:**
+    1. Завершить Проект «Мой промо сайт»
+    2. Установка программы: Adobe Illustrator
+    
 Занятие 6. Знакомство с Adobe Illustrator
 •	Создать 3 иконки для дополнения финансового сета
 
