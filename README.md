@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://it-kursy.adukar.by/web-design/">
-    <img src="http://pp.userapi.com/c834203/v834203153/a949c/Fsyp8J1TOIM.jpg" alt="Bootstrap logo" width="100%">
+    <img src="src="https://static.tildacdn.com/tild6262-3430-4766-a364-613665383538/logo.png"" alt="Adukar logo">
   </a>
 </p>
 
