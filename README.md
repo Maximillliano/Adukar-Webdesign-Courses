@@ -14,10 +14,14 @@
   <br>
   <br>
   <a href="https://adukar.by/">Сайт Адукар</a>
-  .
+  ·
   <a href="https://drive.google.com/open?id=1XjV1eWH2oR7xiP-KArbHaA8snjCUnmqZ">Программа</a>
   ·
   <a href="https://drive.google.com/open?id=1NGPe2VMi5n-SUmDdWjt7oNaDAs35u4_w">Презентации</a>
+</p>
+
+<p align="center">
+  Для добавления в группу телеграмм : [**Максимилиан Антипенко**](https://t.me/maximillliano)
 </p>
 
 
@@ -25,7 +29,7 @@
 
 - [Цели](#цели)
 - [Быстрые клавиши в PSD](FAQ.md)
-- [0. Курс Web-дизайн](#0.-Курс-Web-дизайн)
+- [0. Курс Web-дизайн](#0-курс-web-дизайн)
 
 
 ## Цели:
