@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  Для добавления в группу телеграмм писать мне: <a href="https://t.me/maximillliano">Максимилиан Антипенко</a>
+</p>
+
+<p align="center">
   По успешном окончании курса ты сможешь претендовать на позиции: 
   <br>
   graphic designer, junior web-designer, ux/ui designer
@@ -19,11 +23,6 @@
   ·
   <a href="https://drive.google.com/open?id=1NGPe2VMi5n-SUmDdWjt7oNaDAs35u4_w">Презентации</a>
 </p>
-
-<p align="center">
-  Для добавления в группу телеграмм : <a href="https://t.me/maximillliano">Максимилиан Антипенко</a>
-</p>
-
 
 ## Содержание:
 
