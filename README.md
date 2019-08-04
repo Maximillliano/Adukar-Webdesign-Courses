@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://it-kursy.adukar.by/web-design/">
-    <img src="logo.png" alt="Adukar logo" width="150px" border-radius:"10px">
+    <img src="logo.png" alt="Adukar logo" width="100px">
   </a>
   <h3 align="center">Адукар курсы по Web-дизайну</h3>
 </p>
