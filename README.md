@@ -6,18 +6,14 @@
 </p>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  По успешном окончании курса ты сможешь претендовать на позиции graphic designer, junior web-designer, ux/ui designer
   <br>
-  <a href="https://getbootstrap.com/docs/4.3/"><strong>Explore Bootstrap docs »</strong></a>
+  <a href="https://it-kursy.adukar.by/web-design/"><strong>Записаться на курсы»</strong></a>
   <br>
   <br>
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
+  <a href="https://drive.google.com/open?id=1XjV1eWH2oR7xiP-KArbHaA8snjCUnmqZ">Программа</a>
   ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=feature.md&labels=feature">Request feature</a>
-  ·
-  <a href="https://themes.getbootstrap.com/">Themes</a>
-  ·
-  <a href="https://blog.getbootstrap.com/">Blog</a>
+  <a href="https://drive.google.com/open?id=1NGPe2VMi5n-SUmDdWjt7oNaDAs35u4_w">Презентации</a>
 </p>
 
 
