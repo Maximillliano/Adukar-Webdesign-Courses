@@ -24,7 +24,7 @@
 ## Программа:
 
 - ### 0. Курс Web-дизайн
--- [Презентация](https://drive.google.com/open?id=1idB0b6GEHhjtvQE2xdXgrtWQjUz8_Nxv)
+  - [Презентация](https://drive.google.com/open?id=1idB0b6GEHhjtvQE2xdXgrtWQjUz8_Nxv)
 
 - ### 1. Введение в профессию веб-дизайнер
 - [(Презентация)](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
