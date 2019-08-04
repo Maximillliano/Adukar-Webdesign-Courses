@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://it-kursy.adukar.by/web-design/">
     <img src="https://static.tildacdn.com/tild6262-3430-4766-a364-613665383538/logo.png" alt="Adukar logo" width="150px">
-    <h3 align="center">Адукар курсы по  Web-дизайну</h3>
   </a>
+  <h3 align="center">Адукар курсы по Web-дизайну</h3>
 </p>
 
 
@@ -10,7 +10,7 @@
 ## Краткое содержание:
 
 - [Цели курса](#цели-курса)
-- [Status](#status)
+- [Программа курса](#программа-курса)
 
 
 ## Цели курса:
@@ -23,9 +23,11 @@
 
 ---
 
-## 0. Курс Web-дизайн [(Презентация)](https://drive.google.com/open?id=1idB0b6GEHhjtvQE2xdXgrtWQjUz8_Nxv)
+## Программа курса:
 
-## 1. Введение в профессию веб-дизайнер [(Презентация)](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
+### 0. Курс Web-дизайн [(Презентация)](https://drive.google.com/open?id=1idB0b6GEHhjtvQE2xdXgrtWQjUz8_Nxv)
+
+### 1. Введение в профессию веб-дизайнер [(Презентация)](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
 
 **Домашняя работа:**
 1. Установка программы: Adobe Photoshop
