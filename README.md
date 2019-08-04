@@ -23,6 +23,8 @@
   <a href="https://drive.google.com/open?id=1XjV1eWH2oR7xiP-KArbHaA8snjCUnmqZ"><strong>Программа</strong></a>
   ·
   <a href="https://drive.google.com/open?id=1NGPe2VMi5n-SUmDdWjt7oNaDAs35u4_w"><strong>Презентации</strong></a>
+  ·
+  <a href="https://drive.google.com/open?id=1NNbYbL275SmWoCks5yQTvqONgvlG-_Fm"><strong>Ваши работы</strong></a>
 </p>
 
 
