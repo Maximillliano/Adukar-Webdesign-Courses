@@ -1,10 +1,11 @@
 <p align="center">
   <a href="https://it-kursy.adukar.by/web-design/">
     <img src="https://static.tildacdn.com/tild6262-3430-4766-a364-613665383538/logo.png" alt="Adukar logo" width="150px">
+    <h3 align="center">Адукар курсы по  Web-дизайну</h3>
   </a>
 </p>
 
-<h3 align="center">Адукар курсы по  Web-дизайну</h3>
+
 
 ## Краткое содержание:
 
