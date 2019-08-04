@@ -1,5 +1,18 @@
 # АДУКАР КУРСЫ ПО WEB-ДИЗАЙНУ
 
+Точки прогресса веб-дизайнера: 
+Изучение программ -> Теория -> Портфолио -> Опыт -> Работа
+
+Требования работодателя:
+Photoshop + Figma (Sketch, InVision), Опыт от 1-3 года, Портфолио, UX, Уровень английского языка
+
+Необходимые программы:
+Adobe Photoshop, Adobe Illustrator, Figma, Axure
+
+Количество работ:
+1 курсовой, 9 проектов, 2 теста = 34 занятий
+
+
 ## 0. Курс Web-дизайн [(Презентация)](https://drive.google.com/open?id=1idB0b6GEHhjtvQE2xdXgrtWQjUz8_Nxv)
 
 ## 1. Введение в профессию веб-дизайнер [(Презентация)](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
