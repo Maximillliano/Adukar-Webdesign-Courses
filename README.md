@@ -1,16 +1,40 @@
+<p align="center">
+  <a href="https://getbootstrap.com/">
+    <img src="" alt="Bootstrap logo" width="72" height="72">
+  </a>
+</p>
+
+<h3 align="center">Адукар курсы по  Web-дизайну</h3>
+
+<p align="center">
+  Точки прогресса веб-дизайнера: 
+  Изучение программ -> Теория -> Портфолио -> Опыт -> Работа
+
+  Требования работодателя:
+  Photoshop + Figma (Sketch, InVision), Опыт от 1-3 года, Портфолио, UX, Уровень английского языка
+
+  Необходимые программы:
+  Adobe Photoshop, Adobe Illustrator, Figma, Axure
+
+  Количество работ:
+  1 курсовой, 9 проектов, 2 теста = 34 занятий
+  <br>
+  <a href="https://getbootstrap.com/docs/4.3/"><strong>Explore Bootstrap docs »</strong></a>
+  <br>
+  <br>
+  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
+  ·
+  <a href="https://github.com/twbs/bootstrap/issues/new?template=feature.md&labels=feature">Request feature</a>
+  ·
+  <a href="https://themes.getbootstrap.com/">Themes</a>
+  ·
+  <a href="https://blog.getbootstrap.com/">Blog</a>
+</p>
+
+
 # АДУКАР КУРСЫ ПО WEB-ДИЗАЙНУ
 
-Точки прогресса веб-дизайнера: 
-Изучение программ -> Теория -> Портфолио -> Опыт -> Работа
 
-Требования работодателя:
-Photoshop + Figma (Sketch, InVision), Опыт от 1-3 года, Портфолио, UX, Уровень английского языка
-
-Необходимые программы:
-Adobe Photoshop, Adobe Illustrator, Figma, Axure
-
-Количество работ:
-1 курсовой, 9 проектов, 2 теста = 34 занятий
 
 
 ## 0. Курс Web-дизайн [(Презентация)](https://drive.google.com/open?id=1idB0b6GEHhjtvQE2xdXgrtWQjUz8_Nxv)
