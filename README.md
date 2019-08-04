@@ -27,12 +27,11 @@
   - [Презентация](https://drive.google.com/open?id=1idB0b6GEHhjtvQE2xdXgrtWQjUz8_Nxv)
 
 - ### 1. Введение в профессию веб-дизайнер
-- [(Презентация)](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
-
-Домашняя работа:
-1. Установка программы: Adobe Photoshop
-2. [Подписаться на группы ВК](FAQ.md), сайты, значимых фигур и скачать литературу
-3. Анализ окружающей среды на гармонию и дисгармонию элементов (вывесок и баннеров)
+  - [Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
+  - Домашняя работа:
+    1. Установка программы: Adobe Photoshop
+    2. [Подписаться на группы ВК](FAQ.md), сайты, значимых фигур и скачать литературу
+    3. Анализ окружающей среды на гармонию и дисгармонию элементов (вывесок и баннеров)
 
 ## 2. Знакомство с Adobe Photoshop [(Презентация)](https://drive.google.com/open?id=1TL3OzDy9cUL_mc73CwbFY849ajHm5Z_2)
 [Материалы для урока](https://drive.google.com/open?id=1ARLRaNDH6i5gdUNppFF8BLPFg6EwbdN-)
