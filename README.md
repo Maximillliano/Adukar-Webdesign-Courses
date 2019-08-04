@@ -15,14 +15,14 @@
   <br>
   Для добавления в группу телеграмм писать мне: 
   <br>
-  <a href="https://t.me/maximillliano"><strong>Максимилиан Антипенко</strong></a>
+  <a href="https://t.me/maximillliano">Максимилиан Антипенко</a>
   <br>
   <br>
-  <a href="https://adukar.by/">Сайт Адукар</a>
+  <a href="https://adukar.by/"><strong>Сайт Адукар</strong></a>
   ·
-  <a href="https://drive.google.com/open?id=1XjV1eWH2oR7xiP-KArbHaA8snjCUnmqZ">Программа</a>
+  <a href="https://drive.google.com/open?id=1XjV1eWH2oR7xiP-KArbHaA8snjCUnmqZ"><strong>Программа</strong></a>
   ·
-  <a href="https://drive.google.com/open?id=1NGPe2VMi5n-SUmDdWjt7oNaDAs35u4_w">Презентации</a>
+  <a href="https://drive.google.com/open?id=1NGPe2VMi5n-SUmDdWjt7oNaDAs35u4_w"><strong>Презентации</strong></a>
 </p>
 
 
