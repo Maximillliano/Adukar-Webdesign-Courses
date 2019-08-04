@@ -6,30 +6,23 @@
 
 <h3 align="center">Адукар курсы по  Web-дизайну</h3>
 
-<p align="center">
-  Точки прогресса веб-дизайнера: 
-  Изучение программ -> Теория -> Портфолио -> Опыт -> Работа
+## Table of contents
 
-  Требования работодателя:
-  Photoshop + Figma (Sketch, InVision), Опыт от 1-3 года, Портфолио, UX, Уровень английского языка
+- [Цель курса](#цель-курса)
+- [Status](#status)
 
-  Необходимые программы:
-  Adobe Photoshop, Adobe Illustrator, Figma, Axure
 
-  Количество работ:
-  1 курсовой, 9 проектов, 2 теста = 34 занятий
-  <br>
-  <a href="https://getbootstrap.com/docs/4.3/"><strong>Explore Bootstrap docs »</strong></a>
-  <br>
-  <br>
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug.md">Report bug</a>
-  ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=feature.md&labels=feature">Request feature</a>
-  ·
-  <a href="https://themes.getbootstrap.com/">Themes</a>
-  ·
-  <a href="https://blog.getbootstrap.com/">Blog</a>
-</p>
+## Цель курса
+
+Several quick start options are available:
+
+- Точки прогресса веб-дизайнера: **Изучение программ** -> **Теория** -> **Портфолио** -> **Опыт** -> **Работа**
+- Требования работодателя: Photoshop + Figma (Sketch, InVision), Опыт от 1-3 года, Портфолио, UX, Уровень английского языка
+- Необходимые программы: Adobe Photoshop, Adobe Illustrator, Figma, Axure
+- Количество работ: 1 курсовой, 9 проектов, 2 теста = 34 занятий
+- Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:4.3.1`
+- Install with [NuGet](https://www.nuget.org/): CSS: `Install-Package bootstrap` Sass: `Install-Package bootstrap.sass`
+
 
 
 # АДУКАР КУРСЫ ПО WEB-ДИЗАЙНУ
