@@ -80,15 +80,15 @@
     1. Создать 3 иконки для дополнения финансового сета [иконки.eps](https://drive.google.com/open?id=1xI9pe1CX-UApL9G1yqMFzF3xQ5BkNGDC)
 
 - ### 7. Практика в Adobe Illustrator
-  - [Материалы для урока](https://drive.google.com/drive/folders/1abDm_WEzBN35pBf9KAcNiYbnN0_RRbv5?usp=sharing)
+  - [Материалы для урока](https://drive.google.com/drive/folders/1YqS8E2fFofWe82YsVS9nbqZtXs8wpBSY?usp=sharing)
   - **🏠 Домашняя работа:**
-    1. Создать логотип на любую тематику и наложить мокап (выдается с заданием)
+    1. Создать [логотип на любую тематику из примеров](https://drive.google.com/open?id=11eQLTgQ50tEMWftQusY8Hx-qpCHeyQox)
 
 - ### 8. Первый проект в Adobe Illustrator
   - [Материалы для урока](https://drive.google.com/drive/folders/1abDm_WEzBN35pBf9KAcNiYbnN0_RRbv5?usp=sharing)
-  - [Презентация](https://drive.google.com/open?id=1PIf2Rcx6nTnUMHMjMQWLenH702r7fdWF)
   - **🏠 Домашняя работа:**
-    1. Теория: книга по adobe illustrator, logobaker
+    1. Завершить [Проект «Корпоративный сайт (Бизнес)»](https://drive.google.com/open?id=1yPX9gJJ7tL5UNlKtz6boGSe-pHzk2vx-)
+    2. Создать [«Корпоративный сайт (Бизнес) по прототипу»](https://drive.google.com/open?id=1BpKjpVY2jEuAoHre-nzWo7D0U636jb1a)
     
 - ### 9. Пользовательский опыт (UX)
   - [Материалы для урока](https://drive.google.com/drive/folders/1abDm_WEzBN35pBf9KAcNiYbnN0_RRbv5?usp=sharing)
