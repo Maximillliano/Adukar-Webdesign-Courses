@@ -6,11 +6,15 @@
 </p>
 
 <p align="center">
-  По успешном окончании курса ты сможешь претендовать на позиции graphic designer, junior web-designer, ux/ui designer
+  По успешном окончании курса ты сможешь претендовать на позиции: 
+  <br>
+  graphic designer, junior web-designer, ux/ui designer
   <br>
   <a href="https://it-kursy.adukar.by/web-design/"><strong>Записаться на курсы»</strong></a>
   <br>
   <br>
+  <a href="https://adukar.by/">Сайт Адукар</a>
+  .
   <a href="https://drive.google.com/open?id=1XjV1eWH2oR7xiP-KArbHaA8snjCUnmqZ">Программа</a>
   ·
   <a href="https://drive.google.com/open?id=1NGPe2VMi5n-SUmDdWjt7oNaDAs35u4_w">Презентации</a>
