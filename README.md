@@ -51,20 +51,19 @@
 - ### 2. Знакомство с Adobe Photoshop
   - [Материалы для урока](https://drive.google.com/open?id=1ARLRaNDH6i5gdUNppFF8BLPFg6EwbdN-)
   - [Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
-  - [📘 Книга по Photoshop №1](https://drive.google.com/open?id=1VPgTvNb_RNSqhMz8dVFSyLGqFi-hdl0O),
-  - [📘 Книга по Photoshop №2](https://drive.google.com/open?id=1NwlNGd-HETCIglNKn9wjXGtlTmU7KXV1)
+  - [Книга по Photoshop №1](https://drive.google.com/open?id=1VPgTvNb_RNSqhMz8dVFSyLGqFi-hdl0O), [Книга по Photoshop №2](https://drive.google.com/open?id=1NwlNGd-HETCIglNKn9wjXGtlTmU7KXV1)
   - 🏠 Домашняя работа:
     1. Доработка дизайна [Баннера (для группы ВК)](https://drive.google.com/open?id=1HT4X3TmitQNWnsEPrYHkBL54zGpdnWm-)
     2. Создать копию [Афиши «Мужчина на фоне»](https://drive.google.com/open?id=1KOd4vhTMVIzN8hxUhcP-6ySjFKFLMFkF)
 
 - ### 3. Практика в Adobe Photoshop
   - [Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
-  - **Домашняя работа:**
+  - **🏠 Домашняя работа:**
     1. [Создание дизайна афиши для ВК](https://drive.google.com/open?id=1HT4X3TmitQNWnsEPrYHkBL54zGpdnWm-)
 
 - ### 3. Практика в Adobe Photoshop
   - [Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
-  - **Домашняя работа:**
+  - **🏠 Домашняя работа:**
     1. [Создание дизайна афиши для ВК](https://drive.google.com/open?id=1HT4X3TmitQNWnsEPrYHkBL54zGpdnWm-)
 
 
