@@ -6,15 +6,13 @@
 </p>
 
 <p align="center">
-  Для добавления в группу телеграмм писать мне: <a href="https://t.me/maximillliano">Максимилиан Антипенко</a>
-</p>
-
-<p align="center">
   По успешном окончании курса ты сможешь претендовать на позиции: 
   <br>
   graphic designer, junior web-designer, ux/ui designer
   <br>
   <a href="https://it-kursy.adukar.by/web-design/"><strong>Записаться на курсы»</strong></a>
+  <br>
+  Для добавления в группу телеграмм писать мне: <a href="https://t.me/maximillliano">Максимилиан Антипенко</a>
   <br>
   <br>
   <a href="https://adukar.by/">Сайт Адукар</a>
