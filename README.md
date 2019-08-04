@@ -43,7 +43,7 @@
 
 - ### 1. Введение в профессию веб-дизайнера
   - [Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
-  - Домашняя работа:
+  - **Домашняя работа:**
     1. Установка программы: Adobe Photoshop
     2. [Подписаться на группы ВК](FAQ.md), сайты, значимых фигур и скачать литературу
     3. Анализ окружающей среды на гармонию и дисгармонию элементов (вывесок и баннеров)
@@ -59,12 +59,12 @@
 
 - ### 3. Практика в Adobe Photoshop
   - [Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
-  - Домашняя работа:
+  - **Домашняя работа:**
     1. [Создание дизайна афиши для ВК](https://drive.google.com/open?id=1HT4X3TmitQNWnsEPrYHkBL54zGpdnWm-)
 
 - ### 3. Практика в Adobe Photoshop
   - [Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
-  - Домашняя работа:
+  - **Домашняя работа:**
     1. [Создание дизайна афиши для ВК](https://drive.google.com/open?id=1HT4X3TmitQNWnsEPrYHkBL54zGpdnWm-)
 
 
