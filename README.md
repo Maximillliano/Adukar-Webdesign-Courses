@@ -30,25 +30,25 @@
 
 ## Цели:
 
-- ✔️ Точки прогресса веб-дизайнера: `Изучение программ -> Теория -> Портфолио -> Опыт -> Работа`
-- ✔️ Требования работодателя: `Photoshop + Figma (Sketch, InVision), Опыт 1-3 года, Портфолио, UX, Английский язык`
-- ✔️ Необходимые программы: [Adobe Photoshop](https://www.adobe.com/ru/?gclid=Cj0KCQjwhJrqBRDZARIsALhp1WR2lXMgUjPj6w9u78e83FTFagONvyYuVCHBzY6XKXQcRyuXBwtCPDUaAuN9EALw_wcB&sdid=KKQIL&mv=search&ef_id=Cj0KCQjwhJrqBRDZARIsALhp1WR2lXMgUjPj6w9u78e83FTFagONvyYuVCHBzY6XKXQcRyuXBwtCPDUaAuN9EALw_wcB:G:s&s_kwcid=AL!3085!3!247411118842!e!!g!!adobe%20photoshop), [Adobe Illustrator](https://www.adobe.com/ru/?gclid=Cj0KCQjwhJrqBRDZARIsALhp1WQ_kkVXcHth0CEmpsry6bGi6kOIrav95f4k0_HEdbeZACYL1JrLEe8aAufuEALw_wcB&sdid=KKQLE&mv=search&ef_id=Cj0KCQjwhJrqBRDZARIsALhp1WQ_kkVXcHth0CEmpsry6bGi6kOIrav95f4k0_HEdbeZACYL1JrLEe8aAufuEALw_wcB:G:s&s_kwcid=AL!3085!3!301440493416!e!!g!!adobe%20illustrator), [Figma](https://www.figma.com/files/recent), [Axure](https://www.axure.com/)
-- ✔️ Количество работ: `1 курсовой, 9 проектов, 2 теста = 34 занятия`
+- [x] Точки прогресса веб-дизайнера: `Изучение программ -> Теория -> Портфолио -> Опыт -> Работа`
+- [x] Требования работодателя: `Photoshop + Figma (Sketch, InVision), Опыт 1-3 года, Портфолио, UX, Английский язык`
+- [x] Необходимые программы: [Adobe Photoshop](https://www.adobe.com/ru/?gclid=Cj0KCQjwhJrqBRDZARIsALhp1WR2lXMgUjPj6w9u78e83FTFagONvyYuVCHBzY6XKXQcRyuXBwtCPDUaAuN9EALw_wcB&sdid=KKQIL&mv=search&ef_id=Cj0KCQjwhJrqBRDZARIsALhp1WR2lXMgUjPj6w9u78e83FTFagONvyYuVCHBzY6XKXQcRyuXBwtCPDUaAuN9EALw_wcB:G:s&s_kwcid=AL!3085!3!247411118842!e!!g!!adobe%20photoshop), [Adobe Illustrator](https://www.adobe.com/ru/?gclid=Cj0KCQjwhJrqBRDZARIsALhp1WQ_kkVXcHth0CEmpsry6bGi6kOIrav95f4k0_HEdbeZACYL1JrLEe8aAufuEALw_wcB&sdid=KKQLE&mv=search&ef_id=Cj0KCQjwhJrqBRDZARIsALhp1WQ_kkVXcHth0CEmpsry6bGi6kOIrav95f4k0_HEdbeZACYL1JrLEe8aAufuEALw_wcB:G:s&s_kwcid=AL!3085!3!301440493416!e!!g!!adobe%20illustrator), [Figma](https://www.figma.com/files/recent), [Axure](https://www.axure.com/)
+- [x] Количество работ: `1 курсовой, 9 проектов, 2 теста = 34 занятия`
 
 
 ## Программа:
 
-- ### ✍️ 0. Курс Web-дизайн
+- ### 0. Курс Web-дизайн
   - [Презентация](https://drive.google.com/open?id=1idB0b6GEHhjtvQE2xdXgrtWQjUz8_Nxv)
 
-- ### ✍️ 1. Введение в профессию веб-дизайнера
+- ### 1. Введение в профессию веб-дизайнера
   - [Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
   - **🏠 Домашняя работа:**
     1. Установка программы: Adobe Photoshop
     2. [Подписаться на группы ВК](FAQ.md), сайты, значимых фигур и скачать литературу
     3. Анализ окружающей среды на гармонию и дисгармонию элементов (вывесок и баннеров)
 
-- ### ✍️ 2. Знакомство с Adobe Photoshop
+- ### 2. Знакомство с Adobe Photoshop
   - [Материалы для урока](https://drive.google.com/open?id=1ARLRaNDH6i5gdUNppFF8BLPFg6EwbdN-)
   - [Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
   - [📘 Книга по Photoshop №1](https://drive.google.com/open?id=1VPgTvNb_RNSqhMz8dVFSyLGqFi-hdl0O),
