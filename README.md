@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="" alt="Bootstrap logo" width="72" height="72">
+  <a href="https://it-kursy.adukar.by/web-design/">
+    <img src="http://pp.userapi.com/c834203/v834203153/a949c/Fsyp8J1TOIM.jpg" alt="Bootstrap logo" width="72" height="72">
   </a>
 </p>
 
