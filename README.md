@@ -18,7 +18,7 @@
 - Точки прогресса веб-дизайнера: `Изучение программ -> Теория -> Портфолио -> Опыт -> Работа`
 - Требования работодателя: `Photoshop + Figma (Sketch, InVision), Опыт 1-3 года, Портфолио, UX, Английский язык`
 - Необходимые программы: [Adobe Photoshop](https://www.adobe.com/ru/?gclid=Cj0KCQjwhJrqBRDZARIsALhp1WR2lXMgUjPj6w9u78e83FTFagONvyYuVCHBzY6XKXQcRyuXBwtCPDUaAuN9EALw_wcB&sdid=KKQIL&mv=search&ef_id=Cj0KCQjwhJrqBRDZARIsALhp1WR2lXMgUjPj6w9u78e83FTFagONvyYuVCHBzY6XKXQcRyuXBwtCPDUaAuN9EALw_wcB:G:s&s_kwcid=AL!3085!3!247411118842!e!!g!!adobe%20photoshop), [Adobe Illustrator](https://www.adobe.com/ru/?gclid=Cj0KCQjwhJrqBRDZARIsALhp1WQ_kkVXcHth0CEmpsry6bGi6kOIrav95f4k0_HEdbeZACYL1JrLEe8aAufuEALw_wcB&sdid=KKQLE&mv=search&ef_id=Cj0KCQjwhJrqBRDZARIsALhp1WQ_kkVXcHth0CEmpsry6bGi6kOIrav95f4k0_HEdbeZACYL1JrLEe8aAufuEALw_wcB:G:s&s_kwcid=AL!3085!3!301440493416!e!!g!!adobe%20illustrator), [Figma](https://www.figma.com/files/recent), [Axure](https://www.axure.com/)
-- Количество работ: `1 курсовой, 9 проектов, 2 теста = 34 занятий`
+- Количество работ: `1 курсовой, 9 проектов, 2 теста = 34 занятия`
 
 
 ---
