@@ -25,6 +25,8 @@
   <a href="https://drive.google.com/open?id=1NGPe2VMi5n-SUmDdWjt7oNaDAs35u4_w"><strong>Презентации</strong></a>
   ·
   <a href="https://drive.google.com/open?id=1NNbYbL275SmWoCks5yQTvqONgvlG-_Fm"><strong>Ваши работы</strong></a>
+  ·
+  <a href="  https://docs.google.com/spreadsheets/d/1tKUDc1VOuW2m5ES9sc7Xiyj5BL-SMBxIAkRiEEHDcBw/edit?usp=sharing"><strong>Оценки</strong></a>
 </p>
 
 
