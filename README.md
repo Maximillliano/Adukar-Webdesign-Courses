@@ -135,7 +135,7 @@
     1. Создать [логотип на любую тематику из примеров](https://drive.google.com/open?id=11eQLTgQ50tEMWftQusY8Hx-qpCHeyQox)
 
 - ### 8. Первый проект в Adobe Illustrator
-  - [Материалы для урока](https://drive.google.com/drive/folders/1abDm_WEzBN35pBf9KAcNiYbnN0_RRbv5?usp=sharing)
+  - [Материалы для урока](https://drive.google.com/drive/folders/1S7e4b-uQZK9M2E3ZrgNKFYGv-0b-FwxH?usp=sharing)
   - **🏠 Домашняя работа:**
     1. Завершить [Проект «Корпоративный сайт (Бизнес)»](https://drive.google.com/open?id=1yPX9gJJ7tL5UNlKtz6boGSe-pHzk2vx-)
     2. Создать [«Корпоративный сайт (Бизнес) по прототипу»](https://drive.google.com/open?id=1BpKjpVY2jEuAoHre-nzWo7D0U636jb1a)
