@@ -148,7 +148,7 @@
 - ### 10. Редизайн проекта
   - [Материалы для урока](https://drive.google.com/open?id=1aLvs4GUtv-47HhyPfI4yzi-dA0Bfrnvc)
   - **🏠 Домашняя работа:**
-    1. Завершить [редизайн элементов Спортивного сайта](https://drive.google.com/open?id=1qs5MNEH8zElr5MBrf_HOrj-_UtKIcIXu)
+    1. Завершить [редизайн элементов Спортивного сайта](https://drive.google.com/open?id=184ZpVJqfffW-yZBMouXLrBQTq01ZS8hH)
     2. Редизайн формы входа (login, registration)
     3. [Поиск и выбор реального проекта по редизайну](https://drive.google.com/open?id=1fDjE3RuprqxXdFPGcuXauO6CeQESi3i-)
 
