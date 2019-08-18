@@ -11,7 +11,7 @@
 -  Алан Купер и компания — «Интерфейс. Основы проектирования взаимодействия» (на тему UX)
 
 ## Полезные сайты:
-https://www.freepik.com/home Все
+- [Есть все](https://www.freepik.com/home)
 - [Иконки 1](https://www.iconfinder.com/custom-icon-design)
 - [Иконки 2](https://www.flaticon.com/)
 - [Иконки 3](https://thenounproject.com/)
