@@ -184,6 +184,7 @@
     
 - ### 17. Figma
   - [Презентация](https://drive.google.com/open?id=1fy2nMmjgTS_hzpG9GGvWnnixfeU1D_DY)
+  - [Быстрые клавиши в Figma](FAQ.md)
   - **🏠 Домашняя работа:**
     1. [Книга по возможностям Figma](https://drive.google.com/open?id=15yvHNlLcffyPefjOnAHe74yvWodwBgr_)
 
