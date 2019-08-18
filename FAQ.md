@@ -11,10 +11,10 @@
 -  Алан Купер и компания — «Интерфейс. Основы проектирования взаимодействия» (на тему UX)
 
 ## Полезные сайты:
-- [Есть все](https://www.freepik.com/home)
-- [Иконки 1](https://www.iconfinder.com/custom-icon-design)
-- [Иконки 2](https://www.flaticon.com/)
-- [Иконки 3](https://thenounproject.com/)
+- [Freepik](https://www.freepik.com/home)
+- [Iconfinder](https://www.iconfinder.com/custom-icon-design)
+- [Flaticon](https://www.flaticon.com/)
+- [Thenounproject](https://thenounproject.com/)
 
 ## Быстрые клавиши в Photoshop:
 - `Ctrl + колёсико` (приближение экрана)
