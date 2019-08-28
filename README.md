@@ -99,7 +99,7 @@
 
 - ### 2. Знакомство с Adobe Photoshop
   - [Материалы для урока](https://drive.google.com/open?id=1ARLRaNDH6i5gdUNppFF8BLPFg6EwbdN-)
-  - [Презентация](https://drive.google.com/open?id=1VaAzS7XjOCMuAy4QlKhkt8nocUe_9FWn)
+  - [Презентация](https://drive.google.com/open?id=1KR18JX5QtJ1Fi2ygIeuqmr7bKQKyvLNI)
   - [Книга по Photoshop №1](https://drive.google.com/open?id=1VPgTvNb_RNSqhMz8dVFSyLGqFi-hdl0O), [Книга по Photoshop №2](https://drive.google.com/open?id=1NwlNGd-HETCIglNKn9wjXGtlTmU7KXV1)
   - [Быстрые клавиши в PSD](FAQ.md)
   - **🏠 Домашняя работа:**
