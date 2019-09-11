@@ -15,6 +15,7 @@
 - [Iconfinder](https://www.iconfinder.com/custom-icon-design)
 - [Flaticon](https://www.flaticon.com/)
 - [Thenounproject](https://thenounproject.com/)
+- [Font Squirrel](https://www.fontsquirrel.com/) -шрифты
 
 ## Быстрые клавиши в Photoshop:
 - `Ctrl + колёсико` (приближение экрана)
