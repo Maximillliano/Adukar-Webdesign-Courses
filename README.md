@@ -107,6 +107,7 @@
     2. Создать копию [Афиши «Мужчина на фоне»](https://drive.google.com/open?id=1KOd4vhTMVIzN8hxUhcP-6ySjFKFLMFkF)
 
 ### 3. Практика в Adobe Photoshop
+  - [Материалы для урока](https://drive.google.com/drive/folders/1qoMR0bDL5lduKeqb9l_C0LxWdNuJIdRY?usp=sharing)
   - [Презентация](https://drive.google.com/open?id=11V5gOGZMygQGiYUxAVylrNYZ_f1_dTwI)
   - **🏠 Домашняя работа:**
     1. [Создание дизайна афиши для ВК](https://drive.google.com/open?id=1HT4X3TmitQNWnsEPrYHkBL54zGpdnWm-)
