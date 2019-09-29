@@ -15,7 +15,7 @@
   <br>
   Для добавления в группу телеграмм писать мне: 
   <br>
-  <a href="https://t.me/maximillliano">Максимилиан Антипенко</a>
+  <a href="https://t.me/amaximilian">Максимилиан Антипенко</a>
   <br>
   <br>
   <a href="https://adukar.by/"><strong>Сайт Адукар</strong></a>
