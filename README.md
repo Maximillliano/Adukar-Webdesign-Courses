@@ -104,8 +104,7 @@
   - [Книга по Photoshop №1](https://drive.google.com/open?id=1VPgTvNb_RNSqhMz8dVFSyLGqFi-hdl0O), [Книга по Photoshop №2](https://drive.google.com/open?id=1NwlNGd-HETCIglNKn9wjXGtlTmU7KXV1)
   - [Быстрые клавиши в PSD](FAQ.md)
   - **🏠 Домашняя работа:**
-    1. Доработка дизайна [Баннера (для группы ВК)](https://drive.google.com/open?id=1HT4X3TmitQNWnsEPrYHkBL54zGpdnWm-)
-    2. Создать копию [Афиши «Мужчина на фоне»](https://drive.google.com/open?id=1KOd4vhTMVIzN8hxUhcP-6ySjFKFLMFkF)
+    1. Создать копию [Афиши «Мужчина на фоне»](https://drive.google.com/open?id=1KOd4vhTMVIzN8hxUhcP-6ySjFKFLMFkF)
 
 ### 3. Практика в Adobe Photoshop
   - [Материалы для урока](https://drive.google.com/drive/folders/1qoMR0bDL5lduKeqb9l_C0LxWdNuJIdRY?usp=sharing)
@@ -116,12 +115,12 @@
 ### 4. Первый проект в Adobe Photoshop
   - [Презентация](https://drive.google.com/open?id=1_1PWGlIM-oyNrqZltYRGCj2z6Nw95g1V)
   - **🏠 Домашняя работа:**
-    1. Завершить [Проект «Промо сайт (Стартап)»](https://drive.google.com/drive/folders/1--a1drmDs6X_f7tPxulTTQszvJoz_86L?usp=sharing)
+    1. Завершить [Проект «Промо сайт»](https://drive.google.com/drive/folders/1--a1drmDs6X_f7tPxulTTQszvJoz_86L?usp=sharing)
 
 ### 5. Собственный проект в Adobe Photoshop
   - [Презентация](https://drive.google.com/open?id=1bu_tlmw7UUPeL7nD56l6mp1YwVI6o1Oj)
   - **🏠 Домашняя работа:**
-    1. Завершить Проект «Мой промо сайт»
+    1. Завершить Проект «Мой промо сайт (Стартап)»
     2. Установка программы: Adobe Illustrator
 
 ### 6. Знакомство с Adobe Illustrator
@@ -139,8 +138,7 @@
 ### 8. Первый проект в Adobe Illustrator
   - [Материалы для урока](https://drive.google.com/drive/folders/1S7e4b-uQZK9M2E3ZrgNKFYGv-0b-FwxH?usp=sharing)
   - **🏠 Домашняя работа:**
-    1. Завершить [Проект «Корпоративный сайт (Бизнес)»](https://drive.google.com/open?id=1yPX9gJJ7tL5UNlKtz6boGSe-pHzk2vx-)
-    2. Создать [«Корпоративный сайт (Бизнес) по прототипу»](https://drive.google.com/open?id=1BpKjpVY2jEuAoHre-nzWo7D0U636jb1a)
+    1. Создать [«Корпоративный сайт (Бизнес) по прототипу»](https://drive.google.com/open?id=1BpKjpVY2jEuAoHre-nzWo7D0U636jb1a)
     
 ### 9. Пользовательский опыт (UX)
   - [Презентация](https://drive.google.com/open?id=1H-X1ORC6yHsbwTaVa6pCgCbPs4Trn_AP)
