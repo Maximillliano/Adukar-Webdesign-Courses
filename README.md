@@ -27,6 +27,8 @@
   <a href="https://drive.google.com/drive/folders/1NNbYbL275SmWoCks5yQTvqONgvlG-_Fm?usp=sharing"><strong>Ваши работы</strong></a>
   ·
   <a href="https://docs.google.com/spreadsheets/d/1tKUDc1VOuW2m5ES9sc7Xiyj5BL-SMBxIAkRiEEHDcBw/edit?usp=sharing"><strong>Оценки</strong></a>
+  .
+  <a href="https://drive.google.com/file/d/1xtJq32yRQa5Y5kv09VBAQAaYG8el_k5X/view"><strong>Экзамен</strong></a>
 </p>
 
 
