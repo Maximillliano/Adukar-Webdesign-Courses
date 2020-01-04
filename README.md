@@ -27,7 +27,7 @@
   <a href="https://drive.google.com/drive/folders/1NNbYbL275SmWoCks5yQTvqONgvlG-_Fm?usp=sharing"><strong>Ваши работы</strong></a>
   ·
   <a href="https://docs.google.com/spreadsheets/d/1tKUDc1VOuW2m5ES9sc7Xiyj5BL-SMBxIAkRiEEHDcBw/edit?usp=sharing"><strong>Оценки</strong></a>
-  .
+  ·
   <a href="https://drive.google.com/file/d/1xtJq32yRQa5Y5kv09VBAQAaYG8el_k5X/view"><strong>Экзамен</strong></a>
 </p>
 
@@ -162,9 +162,10 @@
 
 ### 12. Личный редизайн (2 часть)
   - [Материалы для урока](https://drive.google.com/open?id=1fDjE3RuprqxXdFPGcuXauO6CeQESi3i-)
+  - [Шаблон письма](https://drive.google.com/drive/folders/1z9yhZZTOy4nxpzATAYC-bpPEvu1Q8sZ5)
   - **🏠 Домашняя работа:**
     1. [Подготовка к экзамену](https://drive.google.com/open?id=1xtJq32yRQa5Y5kv09VBAQAaYG8el_k5X)
-    2. Написать письмо с работой на почтовый адрес
+    2. [Написать письмо с работой на почтовый адрес](https://drive.google.com/drive/folders/1z9yhZZTOy4nxpzATAYC-bpPEvu1Q8sZ5)
 
 ### 13. Экзамен
   - [Материал](https://drive.google.com/open?id=1xtJq32yRQa5Y5kv09VBAQAaYG8el_k5X)
