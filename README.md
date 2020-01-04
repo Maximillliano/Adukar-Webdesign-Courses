@@ -162,10 +162,10 @@
 
 ### 12. Личный редизайн (2 часть)
   - [Материалы для урока](https://drive.google.com/open?id=1fDjE3RuprqxXdFPGcuXauO6CeQESi3i-)
-  - [Шаблон письма](https://drive.google.com/drive/folders/1z9yhZZTOy4nxpzATAYC-bpPEvu1Q8sZ5)
+  - [Шаблон письма](https://drive.google.com/file/d/14xDi-CsadSP8THZh94l1J1jnu1aeKZ1Q/view?usp=sharing)
   - **🏠 Домашняя работа:**
     1. [Подготовка к экзамену](https://drive.google.com/open?id=1xtJq32yRQa5Y5kv09VBAQAaYG8el_k5X)
-    2. [Написать письмо с работой на почтовый адрес](https://drive.google.com/drive/folders/1z9yhZZTOy4nxpzATAYC-bpPEvu1Q8sZ5)
+    2. [Написать письмо с работой на почтовый адрес](https://drive.google.com/file/d/14xDi-CsadSP8THZh94l1J1jnu1aeKZ1Q/view?usp=sharing)
 
 ### 13. Экзамен
   - [Материал](https://drive.google.com/open?id=1xtJq32yRQa5Y5kv09VBAQAaYG8el_k5X)
