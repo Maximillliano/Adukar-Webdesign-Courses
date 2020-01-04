@@ -155,7 +155,7 @@
     3. [Поиск и выбор реального проекта по редизайну](https://drive.google.com/open?id=1fDjE3RuprqxXdFPGcuXauO6CeQESi3i-)
 
 ### 11. Личный редизайн (1 часть)
-  - [Материалы для урока](https://drive.google.com/open?id=1fDjE3RuprqxXdFPGcuXauO6CeQESi3i-)
+  - [Материалы для урока](https://drive.google.com/drive/folders/1z9yhZZTOy4nxpzATAYC-bpPEvu1Q8sZ5)
   - **🏠 Домашняя работа:**
     1. [UX анализ личного проекта](https://drive.google.com/open?id=1xa5Y2Umzp87stuFvNznbEwYf9ySHcmgp)
     2. [Редизайн личного проекта](https://drive.google.com/open?id=1fDjE3RuprqxXdFPGcuXauO6CeQESi3i-)
