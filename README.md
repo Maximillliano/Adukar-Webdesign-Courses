@@ -28,7 +28,7 @@
   ·
   <a href="https://docs.google.com/spreadsheets/d/1tKUDc1VOuW2m5ES9sc7Xiyj5BL-SMBxIAkRiEEHDcBw/edit?usp=sharing"><strong>Оценки</strong></a>
   ·
-  <a href="https://drive.google.com/file/d/1xtJq32yRQa5Y5kv09VBAQAaYG8el_k5X/view"><strong>Экзамен</strong></a>
+  <a href="https://docs.google.com/document/d/18tDLTZ1L1EEsFFYB687xYW9K7qyxDGZJ_78cbfrRvQQ/edit?usp=sharing"><strong>Экзамен</strong></a>
 </p>
 
 
@@ -168,7 +168,7 @@
     2. [Написать письмо с работой на почтовый адрес](https://drive.google.com/file/d/14xDi-CsadSP8THZh94l1J1jnu1aeKZ1Q/view?usp=sharing)
 
 ### 13. Экзамен
-  - [Материал](https://drive.google.com/open?id=1xtJq32yRQa5Y5kv09VBAQAaYG8el_k5X)
+  - [Материал](https://docs.google.com/document/d/18tDLTZ1L1EEsFFYB687xYW9K7qyxDGZJ_78cbfrRvQQ/edit?usp=sharing)
 
 ### 14. Работа над ошибками
   - **🏠 Домашняя работа:**
