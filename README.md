@@ -94,6 +94,7 @@
     1. Анализ окружающей среды на гармонию и дисгармонию элементов (вывесок и баннеров)
 <br>
 <br>
+
 ### 1. Введение в профессию веб-дизайнера
 
   - Контакты (добавление в группу телеграм)
@@ -107,12 +108,13 @@
   - Структура сайтов
   - Тайм-менеджмент
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Установка программы: Adobe Photoshop
     2. [Подписаться на группы ВК](FAQ.md), сайты, значимых фигур и скачать литературу
-
+<br>
+<br>
 
 ### 2. Знакомство с Adobe Photoshop
 
@@ -121,13 +123,14 @@
   - Настройки интерфейса
   - [Дизайн простого макета](https://dribbble.com/shots/popular/web-design)
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
-  - [Материалы для урока](https://drive.google.com/drive/folders/1RUxCo55ZOZ0PjpnoI6NTHxhK32GJREKO)
-  - [Книга по Photoshop №1](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ), [Книга по Photoshop №2](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Материалы для урока](https://drive.google.com/drive/folders/1RUxCo55ZOZ0PjpnoI6NTHxhK32GJREKO)
+  [Книга по Photoshop №1](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ), [Книга по Photoshop №2](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. [Дизайн Баннера по техническому заданию](https://drive.google.com/drive/folders/1RUxCo55ZOZ0PjpnoI6NTHxhK32GJREKO)
-
+<br>
+<br>
 
 ### 3. Практика в Adobe Photoshop
 
@@ -136,12 +139,13 @@
   - Постобработка
   - Дизайн постера
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
-  - [Материалы для урока](https://drive.google.com/drive/folders/1EVwKqQPxH2Kn8hm2ompFUgGBS-ftfvLi)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Материалы для урока](https://drive.google.com/drive/folders/1EVwKqQPxH2Kn8hm2ompFUgGBS-ftfvLi)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. [Обработать фотографию постера по видео-уроку](https://www.youtube.com/channel/UC6lrxMZggMaN1u2V9N2-zrQ)
-
+<br>
+<br>
 
 ### 4. Первый проект в Adobe Photoshop
 
@@ -150,14 +154,15 @@
   - Подготовка материалов для работы
   - Построение по секциям
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
-  - [Сайт с фотографиями Unsplash](https://unsplash.com/)
-  - [Сайт с готовыми элементами Freepik](https://www.freepik.com)
-  - [Сайт с иконками Flaticon](https://www.flaticon.com/)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Сайт с фотографиями Unsplash](https://unsplash.com/)
+  [Сайт с готовыми элементами Freepik](https://www.freepik.com)
+  [Сайт с иконками Flaticon](https://www.flaticon.com/)
   
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Завершить макет Promo-сайта 
-
+<br>
+<br>
 
 ### 5. Собственный проект в Adobe Photoshop
 
@@ -167,14 +172,14 @@
   - Выбор проекта из [Dribbble](https://dribbble.com/shots/popular/web-design)
   - Проект «Мой промо сайт»
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
-  - [Быстрые клавиши в PSD](FAQ.md)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Быстрые клавиши в PSD](FAQ.md)
   
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Завершить Проект «Мой промо сайт»
     2. Установка программы: Adobe Illustrator
-
-
+<br>
+<br>
 
 ### 6. Знакомство с Adobe Illustrator
 
@@ -183,13 +188,14 @@
   - Интерфейс и возможности программы
   - Создание иконок
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
-  - [Материалы для урока](https://drive.google.com/drive/folders/1cUlpuYXFzzeXp8BHrARZ-cLX0S2kUfyO)
-  - [Книга по Illustrator](https://drive.google.com/drive/folders/1cUlpuYXFzzeXp8BHrARZ-cLX0S2kUfyO)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Материалы для урока](https://drive.google.com/drive/folders/1cUlpuYXFzzeXp8BHrARZ-cLX0S2kUfyO)
+  [Книга по Illustrator](https://drive.google.com/drive/folders/1cUlpuYXFzzeXp8BHrARZ-cLX0S2kUfyO)
   
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Создать собственную иконку
-
+<br>
+<br>
 
 ### 7. Практика в Adobe Illustrator
 
@@ -197,11 +203,12 @@
   - Создание кривых и инструмент «перо»
   - Создание иллюстрации
 
-  - [Материалы для урока](https://drive.google.com/drive/folders/1vW-ZXidiQbRKKhoaTHEVQSDFwlAIKz9Q)
+  [Материалы для урока](https://drive.google.com/drive/folders/1vW-ZXidiQbRKKhoaTHEVQSDFwlAIKz9Q)
  
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Завершить отрисовку иллюстрации
-
+<br>
+<br>
 
 ### 8. Полиграфическая продукция
 
@@ -211,9 +218,10 @@
   - Логотип
   - Создание визитки
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
-  - [Материалы для урока](https://drive.google.com/drive/folders/1WW42L5-XX3u144tGIm0by8HjnRlyY5RB)
-
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Материалы для урока](https://drive.google.com/drive/folders/1WW42L5-XX3u144tGIm0by8HjnRlyY5RB)
+<br>
+<br>
 
 ### 9. Пользовательский опыт (UX)
 
@@ -224,11 +232,12 @@
   - Удобство (Usability)
   - Анализ конкурентов
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
   
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Изучить что такое [«карта Эмпатии»](https://netology.ru/blog/karty-empatii-v-marketinge)
-
+<br>
+<br>
 
 ### 10. Figma
 
@@ -238,12 +247,13 @@
   - Командная работа
   - Component
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
-  - [Быстрые клавиши в Figma](FAQ.md)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Быстрые клавиши в Figma](FAQ.md)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. [Изучить книгу по возможностям Figma](https://drive.google.com/open?id=15yvHNlLcffyPefjOnAHe74yvWodwBgr_)
-
+<br>
+<br>
     
 ### 11. Прототипирование
 
@@ -256,12 +266,13 @@
   - Интерактивный прототип
   - Проект «Многостраничный сайт (Фильмы)»
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
-  - [Материалы для урока](https://www.figma.com/file/rCCp1LE98zjDem2Bacul61/Cite-Movies-wireframe?node-id=252%3A166)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Материалы для урока](https://www.figma.com/file/rCCp1LE98zjDem2Bacul61/Cite-Movies-wireframe?node-id=252%3A166)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Завершить Проект «Многостраничный сайт (Фильмы)»
-
+<br>
+<br>
 
 ### 12. Редизайн проекта (1 часть)
 
@@ -270,11 +281,12 @@
   - Создание Wireframe
   - Создание прототипа
 
-  - [Материалы для урока](https://drive.google.com/drive/folders/1ztg8fnVvnbKc1fsNISsbZVVch9nG6o22)
+  [Материалы для урока](https://drive.google.com/drive/folders/1ztg8fnVvnbKc1fsNISsbZVVch9nG6o22)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Завершить прототип страницы
-
+<br>
+<br>
 
 ### 13. Редизайн проекта (2 часть)
 
@@ -283,22 +295,24 @@
   - Подготовка макета для передачи
   - [Написание письма клиенту](https://drive.google.com/drive/folders/1ztg8fnVvnbKc1fsNISsbZVVch9nG6o22)
 
-  - [Материалы для урока](https://drive.google.com/drive/folders/1ztg8fnVvnbKc1fsNISsbZVVch9nG6o22)
+  [Материалы для урока](https://drive.google.com/drive/folders/1ztg8fnVvnbKc1fsNISsbZVVch9nG6o22)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Завершить редизайн проекта
     2. [Подготовка к экзамену](https://docs.google.com/document/d/18tDLTZ1L1EEsFFYB687xYW9K7qyxDGZJ_78cbfrRvQQ/edit?usp=sharing)
-
+<br>
+<br>
 
 ### 14. Экзамен
   
   - Защита в формате 1 на 1 как на экзамене с оценкой
 
-  - [Материал для подготовки](https://docs.google.com/document/d/18tDLTZ1L1EEsFFYB687xYW9K7qyxDGZJ_78cbfrRvQQ/edit?usp=sharing)
+  [Материал для подготовки](https://docs.google.com/document/d/18tDLTZ1L1EEsFFYB687xYW9K7qyxDGZJ_78cbfrRvQQ/edit?usp=sharing)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Завершить редизайн проекта
-
+<br>
+<br>
 
 ### 15. Работа над ошибками
   
@@ -314,11 +328,12 @@
   - Конструкторы ([Tilda](https://tilda.cc/ru/))
   - Создание страницы
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Пройти несколько уроков по [HTML-academy](https://htmlacademy.ru/)
-
+<br>
+<br>
 
 ### 17. Figma сайт-портфолио
 
@@ -327,11 +342,12 @@
   - Создание прототипа
   - Дизайн
 
-  - [Материалы для урока](https://www.figma.com/file/xc1oYWHQeXJjroilxTeDM2/%D0%A1%D0%B0%D0%B9%D1%82-%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE?node-id=1%3A2)
+  [Материалы для урока](https://www.figma.com/file/xc1oYWHQeXJjroilxTeDM2/%D0%A1%D0%B0%D0%B9%D1%82-%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE?node-id=1%3A2)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Завершить проект «Мой сайт-портфолио»
-
+<br>
+<br>
 
 ### 18. Пользовательский интерфейс (UI)
 
@@ -340,20 +356,22 @@
   - Адаптивный дизайн
   - UI-kit и готовые компоненты
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
-  - [Материалы для урока](https://www.figma.com/file/1Ig6LndsydDh1z6ZtHZSR4/%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-UI-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B?node-id=0%3A1)
-
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Материалы для урока](https://www.figma.com/file/1Ig6LndsydDh1z6ZtHZSR4/%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-UI-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B?node-id=0%3A1)
+<br>
+<br>
 
 ### 19. Проектирование от А до Я (1 часть)
   - Проект «E-commerce»
   - Создание Wireframe
   - Создание прототипа
 
-  - [Материалы для урока](https://www.figma.com/file/zRSGi0DmYoIocGaGRA4JXe/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD-E-commerce?node-id=4%3A122)
+  [Материалы для урока](https://www.figma.com/file/zRSGi0DmYoIocGaGRA4JXe/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD-E-commerce?node-id=4%3A122)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Завершить прототипы страниц проекта «E-commerce»
-
+<br>
+<br>
 
 ### 20. Проектирование от А до Я (2 часть)
 
@@ -361,11 +379,12 @@
   - UI-элементы
   - Передача макета на разработку
 
-  - [Материалы для урока](https://www.figma.com/file/zRSGi0DmYoIocGaGRA4JXe/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD-E-commerce?node-id=4%3A122)
+  [Материалы для урока](https://www.figma.com/file/zRSGi0DmYoIocGaGRA4JXe/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD-E-commerce?node-id=4%3A122)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Завершить дизайн страниц проекта «E-commerce»
-
+<br>
+<br>
 
 ### 21. Работа над ошибками
   - Проверка всех работ и корректировка
@@ -379,11 +398,12 @@
   - Кейсы и подача
   - Создание прототипа презентации
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Завершить создание прототипа презентации
-
+<br>
+<br>
 
 ### 23. Презентация и подача (2 часть)
 
@@ -392,23 +412,25 @@
   - Техническое задание
   - Тестовое задание
 
-  - [Материалы для урока](https://drive.google.com/drive/folders/1EDL7OJDuaCrtDammY0QrKv25opK-8Rmo)
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Материалы для урока](https://drive.google.com/drive/folders/1EDL7OJDuaCrtDammY0QrKv25opK-8Rmo)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Завершить дизайн презентации и размещение на Behance
-
+<br>
+<br>
 
 ### 24. Собеседование
 
   - Защита в формате 1 на 1 с макетом на оценку
   - Тестовое задание
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Выбор темы по диплому
-
+<br>
+<br>
 
 ### 25. Диплом (1 часть)
 
@@ -418,12 +440,13 @@
   - [LinkedIn](https://www.linkedin.com)
   - Консультация по диплому и работам
 
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
-  - [Материалы для урока](https://www.figma.com/file/LbJzGhsYWlkVJ4cWJ2GJKSNR/cv-FREE?node-id=0%3A1)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Материалы для урока](https://www.figma.com/file/LbJzGhsYWlkVJ4cWJ2GJKSNR/cv-FREE?node-id=0%3A1)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Дипломная работа
-
+<br>
+<br>
 
 ### 26. Диплом (2 часть)
 
@@ -431,12 +454,13 @@
   - Поиск вакансий
   - Фриланс
   
-  - [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
 
-  - **🏠 Домашняя работа:**
+  **🏠 Домашняя работа:**
     1. Дипломная работа
     2. Отправка CV иссылки на LinkedIn, Behance, Dribbble
-
+<br>
+<br>
 
 ### 27. Защита по диплому
   - Защита работы в присутствии комиссии на оценку
