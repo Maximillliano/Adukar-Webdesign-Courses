@@ -87,7 +87,7 @@
   - Разновидности сайтов
   - Мобильные приложения
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Презентация](https://drive.google.com/file/d/1LNQjKgFfTYGNfBxfwqNfxnSuYdm8vui5/view?usp=sharing)
 
   **🏠 Домашняя работа:**<br>
     1. Анализ окружающей среды на гармонию и дисгармонию элементов (вывесок и баннеров)
@@ -107,7 +107,7 @@
   - Структура сайтов
   - Тайм-менеджмент
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Презентация](https://drive.google.com/file/d/1iBADr9yBxIhUKAy44SyQO4eitPIFMgW2/view?usp=sharing)
 
   **🏠 Домашняя работа:**<br>
     1. Установка программы: Adobe Photoshop<br>
@@ -122,7 +122,7 @@
   - Настройки интерфейса
   - [Дизайн простого макета](https://dribbble.com/shots/popular/web-design)
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)<br>
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
   [Материалы для урока](https://drive.google.com/drive/folders/1RUxCo55ZOZ0PjpnoI6NTHxhK32GJREKO)<br>
   [Книга по Photoshop №1](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ), [Книга по Photoshop №2](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ)
 
@@ -138,7 +138,7 @@
   - Постобработка
   - Дизайн постера
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)<br>
+  [Презентация](https://drive.google.com/file/d/1MvDvw5a0WxKYFbiUIoSE4L6uJSfEaU6Y/view?usp=sharing)<br>
   [Материалы для урока](https://drive.google.com/drive/folders/1EVwKqQPxH2Kn8hm2ompFUgGBS-ftfvLi)
 
   **🏠 Домашняя работа:**<br>
@@ -153,7 +153,7 @@
   - Подготовка материалов для работы
   - Построение по секциям
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)<br>
+  [Презентация](https://drive.google.com/file/d/1B5XnxYlgAv0marIhlZoPxNajHWzkRfMD/view?usp=sharing)<br>
   [Сайт с фотографиями Unsplash](https://unsplash.com/)<br>
   [Сайт с готовыми элементами Freepik](https://www.freepik.com)<br>
   [Сайт с иконками Flaticon](https://www.flaticon.com/)
@@ -171,7 +171,7 @@
   - Выбор проекта из [Dribbble](https://dribbble.com/shots/popular/web-design)
   - Проект «Мой промо сайт»
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)<br>
+  [Презентация](https://drive.google.com/file/d/1785UFQ5OqczoLgh7zTTy4R-YJ1pLhc7N/view?usp=sharing)<br>
   [Быстрые клавиши в PSD](FAQ.md)
   
   **🏠 Домашняя работа:**<br>
@@ -187,7 +187,7 @@
   - Интерфейс и возможности программы
   - Создание иконок
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)<br>
+  [Презентация](https://drive.google.com/file/d/15UlByMvcOCkG9CL24RdirugfFkC5JEl2/view?usp=sharing)<br>
   [Материалы для урока](https://drive.google.com/drive/folders/1cUlpuYXFzzeXp8BHrARZ-cLX0S2kUfyO)<br>
   [Книга по Illustrator](https://drive.google.com/drive/folders/1cUlpuYXFzzeXp8BHrARZ-cLX0S2kUfyO)
   
@@ -217,7 +217,7 @@
   - Логотип
   - Создание визитки
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)<br>
+  [Презентация](https://drive.google.com/file/d/165AMkLAq_09ibs1VZki_ZUCa4pLDNQs5/view?usp=sharing)<br>
   [Материалы для урока](https://drive.google.com/drive/folders/1WW42L5-XX3u144tGIm0by8HjnRlyY5RB)
 <br>
 <br>
@@ -231,7 +231,7 @@
   - Удобство (Usability)
   - Анализ конкурентов
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Презентация](https://drive.google.com/file/d/10Ve_malKEljxsbuF0tkzVFcuKz8DA9Yz/view?usp=sharing)
   
   **🏠 Домашняя работа:**<br>
     1. Изучить что такое [«карта Эмпатии»](https://netology.ru/blog/karty-empatii-v-marketinge)
@@ -246,7 +246,7 @@
   - Командная работа
   - Component
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)<br>
+  [Презентация](https://drive.google.com/file/d/1fmSHgjpd8qbuh9tq2nUAFm59WuRfyoYL/view?usp=sharing)<br>
   [Быстрые клавиши в Figma](FAQ.md)
 
   **🏠 Домашняя работа:**<br>
@@ -265,7 +265,7 @@
   - Интерактивный прототип
   - Проект «Многостраничный сайт (Фильмы)»
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)<br>
+  [Презентация](https://drive.google.com/file/d/1ObgcTEao0pQDoqUFvAiudlgGuP5aoMM_/view?usp=sharing)<br>
   [Материалы для урока](https://www.figma.com/file/rCCp1LE98zjDem2Bacul61/Cite-Movies-wireframe?node-id=252%3A166)
 
   **🏠 Домашняя работа:**<br>
@@ -327,7 +327,7 @@
   - Конструкторы ([Tilda](https://tilda.cc/ru/))
   - Создание страницы
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Презентация](https://drive.google.com/file/d/1YRwicNayhhyQ6lqIkFUWnqsyiAA_68po/view?usp=sharing)
 
   **🏠 Домашняя работа:**<br>
     1. Пройти несколько уроков по [HTML-academy](https://htmlacademy.ru/)
@@ -355,7 +355,7 @@
   - Адаптивный дизайн
   - UI-kit и готовые компоненты
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)<br>
+  [Презентация](https://drive.google.com/file/d/1hJfuJG5aQxOm46L-L-Jpuagx3DvMvWlm/view?usp=sharing)<br>
   [Материалы для урока](https://www.figma.com/file/1Ig6LndsydDh1z6ZtHZSR4/%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-UI-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B?node-id=0%3A1)
 <br>
 <br>
@@ -397,7 +397,7 @@
   - Кейсы и подача
   - Создание прототипа презентации
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Презентация](https://drive.google.com/file/d/1dGP7gzOfbaw6oep6Roh5dDgwUn5bwbXC/view?usp=sharing)
 
   **🏠 Домашняя работа:**<br>
     1. Завершить создание прототипа презентации
@@ -411,9 +411,9 @@
   - Техническое задание
   - Тестовое задание
 
-  [Материалы для урока](https://drive.google.com/drive/folders/1EDL7OJDuaCrtDammY0QrKv25opK-8Rmo)<br>
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
-
+  [Презентация](https://drive.google.com/file/d/1JKDpw4hYA2hM1bw4aEIMQRg6s9qa1czv/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/1EDL7OJDuaCrtDammY0QrKv25opK-8Rmo)
+  
   **🏠 Домашняя работа:**<br>
     1. Завершить дизайн презентации и размещение на Behance
 <br>
@@ -424,7 +424,7 @@
   - Защита в формате 1 на 1 с макетом на оценку
   - Тестовое задание
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Презентация](https://drive.google.com/file/d/1dsjIGoGkkfDZ7j7Hkqo3Xf3EaNFrr_Nz/view?usp=sharing)
 
   **🏠 Домашняя работа:**<br>
     1. Выбор темы по диплому
@@ -439,7 +439,7 @@
   - [LinkedIn](https://www.linkedin.com)
   - Консультация по диплому и работам
 
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)<br>
+  [Презентация](https://drive.google.com/file/d/1IsO7Jr1BFf_Db7o5YgaatuMSYL9728lr/view?usp=sharing)<br>
   [Материалы для урока](https://www.figma.com/file/LbJzGhsYWlkVJ4cWJ2GJKSNR/cv-FREE?node-id=0%3A1)
 
   **🏠 Домашняя работа:**<br>
@@ -453,7 +453,7 @@
   - Поиск вакансий
   - Фриланс
   
-  [Презентация](https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267)
+  [Презентация](https://drive.google.com/file/d/1VshB16iLge0vqyDP7wVMfht6Uk8wGnXe/view?usp=sharing)
 
   **🏠 Домашняя работа:**<br>
     1. Дипломная работа<br>
