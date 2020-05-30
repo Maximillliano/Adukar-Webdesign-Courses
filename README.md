@@ -123,7 +123,7 @@
   - [Дизайн простого макета](https://dribbble.com/shots/popular/web-design)
 
   [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/1RUxCo55ZOZ0PjpnoI6NTHxhK32GJREKO)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
   [Книга по Photoshop №1](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ), [Книга по Photoshop №2](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ)
 
   **🏠 Домашняя работа:**<br>
@@ -139,7 +139,7 @@
   - Дизайн постера
 
   [Презентация](https://drive.google.com/file/d/1MvDvw5a0WxKYFbiUIoSE4L6uJSfEaU6Y/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/1EVwKqQPxH2Kn8hm2ompFUgGBS-ftfvLi)
+  [Материалы для урока](https://drive.google.com/drive/folders/1EVwKqQPxH2Kn8hm2ompFUgGBS-ftfvLi?usp=sharing)
 
   **🏠 Домашняя работа:**<br>
     1. [Обработать фотографию постера по видео-уроку](https://www.youtube.com/channel/UC6lrxMZggMaN1u2V9N2-zrQ)
@@ -188,7 +188,7 @@
   - Создание иконок
 
   [Презентация](https://drive.google.com/file/d/15UlByMvcOCkG9CL24RdirugfFkC5JEl2/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/1cUlpuYXFzzeXp8BHrARZ-cLX0S2kUfyO)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/1cUlpuYXFzzeXp8BHrARZ-cLX0S2kUfyO?usp=sharing)<br>
   [Книга по Illustrator](https://drive.google.com/drive/folders/1cUlpuYXFzzeXp8BHrARZ-cLX0S2kUfyO)
   
   **🏠 Домашняя работа:**<br>
@@ -202,7 +202,7 @@
   - Создание кривых и инструмент «перо»
   - Создание иллюстрации
 
-  [Материалы для урока](https://drive.google.com/drive/folders/1vW-ZXidiQbRKKhoaTHEVQSDFwlAIKz9Q)
+  [Материалы для урока](https://drive.google.com/drive/folders/1vW-ZXidiQbRKKhoaTHEVQSDFwlAIKz9Q?usp=sharing)
  
   **🏠 Домашняя работа:**<br>
     1. Завершить отрисовку иллюстрации
@@ -218,7 +218,7 @@
   - Создание визитки
 
   [Презентация](https://drive.google.com/file/d/165AMkLAq_09ibs1VZki_ZUCa4pLDNQs5/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/1WW42L5-XX3u144tGIm0by8HjnRlyY5RB)
+  [Материалы для урока](https://drive.google.com/drive/folders/1WW42L5-XX3u144tGIm0by8HjnRlyY5RB?usp=sharing)
 <br>
 <br>
 
@@ -280,7 +280,7 @@
   - Создание Wireframe
   - Создание прототипа
 
-  [Материалы для урока](https://drive.google.com/drive/folders/1ztg8fnVvnbKc1fsNISsbZVVch9nG6o22)
+  [Материалы для урока](https://drive.google.com/drive/folders/1ztg8fnVvnbKc1fsNISsbZVVch9nG6o22?usp=sharing)
 
   **🏠 Домашняя работа:**<br>
     1. Завершить прототип страницы
@@ -412,7 +412,7 @@
   - Тестовое задание
 
   [Презентация](https://drive.google.com/file/d/1JKDpw4hYA2hM1bw4aEIMQRg6s9qa1czv/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/1EDL7OJDuaCrtDammY0QrKv25opK-8Rmo)
+  [Материалы для урока](https://drive.google.com/drive/folders/1EDL7OJDuaCrtDammY0QrKv25opK-8Rmo?usp=sharing)
   
   **🏠 Домашняя работа:**<br>
     1. Завершить дизайн презентации и размещение на Behance
