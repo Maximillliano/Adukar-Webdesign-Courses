@@ -22,7 +22,7 @@
   ·
   <a href="https://docs.google.com/document/d/1DlpjZBNd9mqi233jrJjNnCv2fHrW6_I--C_Bj4PIPq0/edit"><strong>Модуль Веб-дизайн</strong></a>
   ·
-  <a href="https://drive.google.com/open?id=1NGPe2VMi5n-SUmDdWjt7oNaDAs35u4_w"><strong>Презентации</strong></a>
+  <a href="https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267"><strong>Презентации</strong></a>
   ·
   <a href="https://drive.google.com/drive/folders/1NNbYbL275SmWoCks5yQTvqONgvlG-_Fm?usp=sharing"><strong>Ваши работы</strong></a>
   ·
