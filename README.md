@@ -391,7 +391,7 @@
 
 ### 22. Презентация и подача (1 часть)
   
-  - Регистрация на Behance
+  - Регистрация на [Behance](http://behance.net)
   - Создание портфолио
   - Поиск мокапов
   - Кейсы и подача
@@ -440,7 +440,9 @@
   - Консультация по диплому и работам
 
   [Презентация](https://drive.google.com/file/d/1IsO7Jr1BFf_Db7o5YgaatuMSYL9728lr/view?usp=sharing)<br>
-  [Материалы для урока](https://www.figma.com/file/LbJzGhsYWlkVJ4cWJ2GJKSNR/cv-FREE?node-id=0%3A1)
+  [Материалы для урока](https://www.figma.com/file/LbJzGhsYWlkVJ4cWJ2GJKSNR/cv-FREE?node-id=0%3A1)<br>
+  [Инструкция по созданию резюме](https://drive.google.com/file/d/1ljPzxNZ8bbtdShpWc-GEeO9Einlw-uky/view)<br>
+  [Инструкция по LinkedIn](https://drive.google.com/file/d/1oD6nOSdgverxo9duKfm39IICr49ADRvT/view)
 
   **🏠 Домашняя работа:**<br>
     1. Дипломная работа
