@@ -20,7 +20,7 @@
   <br>
   <a href="https://adukar.by/"><strong>Сайт Адукар</strong></a>
   ·
-  <a href="https://docs.google.com/document/d/1DlpjZBNd9mqi233jrJjNnCv2fHrW6_I--C_Bj4PIPq0/edit"><strong>Модуль Веб-дизайн</strong></a>
+  <a href="https://drive.google.com/file/d/18SZQ5TsL88SIAZJ6t4QqgzCZaiptRekq/view?usp=sharing"><strong>Модуль Веб-дизайн</strong></a>
   ·
   <a href="https://drive.google.com/drive/folders/1WbrsfWeIlrf4uPNY7k2K_Pse4jgzG267"><strong>Презентации</strong></a>
   ·
@@ -29,7 +29,7 @@
   <a href="https://docs.google.com/spreadsheets/d/1tKUDc1VOuW2m5ES9sc7Xiyj5BL-SMBxIAkRiEEHDcBw/edit?usp=sharing"><strong>Оценки</strong></a>
   ·
   <a href="https://docs.google.com/document/d/18tDLTZ1L1EEsFFYB687xYW9K7qyxDGZJ_78cbfrRvQQ/edit?usp=sharing"><strong>Экзамен</strong></a>
-  .
+  ·
   <a href="FAQ.md"><strong>Быстрые клавиши</strong></a>
 </p>
 
