@@ -127,7 +127,7 @@
   [Книга по Photoshop №1](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ), [Книга по Photoshop №2](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ)
 
   **🏠 Домашняя работа:**<br>
-    1. [Дизайн Баннера по техническому заданию](https://drive.google.com/drive/folders/1RUxCo55ZOZ0PjpnoI6NTHxhK32GJREKO)
+    1. [Дизайн Баннера по техническому заданию](https://drive.google.com/file/d/1CIDisUrkKX0KvY_nFrTKMtgFn-aDKf36/view?usp=sharing)
 <br>
 <br>
 
