@@ -124,7 +124,7 @@
 
   [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
   [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
-  [Книга по Photoshop №1](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ), [Книга по Photoshop №2](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ)
+  [Книга по Photoshop №1](https://drive.google.com/file/d/1bWOuvh1iwW5BIqa7mjRKHyDxTP1Ms0R_/view?usp=sharing), [Книга по Photoshop №2](https://drive.google.com/file/d/1QKi97wjg8w5DINmkb7Dd3dpVODvOv2FE/view?usp=sharing)
 
   **🏠 Домашняя работа:**<br>
     1. [Копия тренировочный макет](https://drive.google.com/file/d/1NJQ-bC51SYucxI8tmdDZqm39X2LzAdvK/view?usp=sharing)
