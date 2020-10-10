@@ -189,7 +189,7 @@
 
   [Презентация](https://drive.google.com/file/d/15UlByMvcOCkG9CL24RdirugfFkC5JEl2/view?usp=sharing)<br>
   [Материалы для урока](https://drive.google.com/drive/folders/1cUlpuYXFzzeXp8BHrARZ-cLX0S2kUfyO?usp=sharing)<br>
-  [Книга по Illustrator](https://drive.google.com/drive/folders/1cUlpuYXFzzeXp8BHrARZ-cLX0S2kUfyO)
+  [Книга по Illustrator](https://drive.google.com/file/d/1YttIaxw6JscoaXrueAj0Yk7KFuYegXaK/view?usp=sharing)
   
   **🏠 Домашняя работа:**<br>
     1. Создать собственную иконку
