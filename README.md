@@ -40,7 +40,7 @@
 - [1. Введение в профессию веб-дизайнера](#1-введение-в-профессию-веб-дизайнера)
 - [2. Знакомство с Adobe Photoshop](#2-знакомство-с-adobe-photoshop)
 - [3. Первый проект в Adobe Photoshop](#3-первый-проект-в-adobe-photoshop)
-- [4. Обработка изображений в Adobe Photoshop](#4-обработка изображений-в-adobe-photoshop)
+- [4. Обработка изображений в Adobe Photoshop](#4-обработка-изображений-в-adobe-photoshop)
 - [5. Собственный проект в Adobe Photoshop](#5-собственный-проект-в-adobe-photoshop)
 - [6. Знакомство с Adobe Illustrator](#6-знакомство-с-adobe-illustrator)
 - [7. Практика в Adobe Illustrator](#7-практика-в-adobe-illustrator)
