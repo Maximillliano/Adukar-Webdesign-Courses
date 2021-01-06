@@ -135,8 +135,8 @@
   - Разбор макета [Promo-сайта](https://dribbble.com/shots/popular/web-design) на элементы интерфейса
   - Подготовка материалов для работы
   - Построение по секциям
-
-  [Презентация](https://drive.google.com/file/d/1B5XnxYlgAv0marIhlZoPxNajHWzkRfMD/view?usp=sharing)<br>
+  
+  [Презентация](https://drive.google.com/file/d/1MvDvw5a0WxKYFbiUIoSE4L6uJSfEaU6Y/view?usp=sharing)<br>
   [Сайт с фотографиями Unsplash](https://unsplash.com/)<br>
   [Сайт с готовыми элементами Freepik](https://www.freepik.com)<br>
   [Сайт с иконками Flaticon](https://www.flaticon.com/)
@@ -153,7 +153,7 @@
   - Постобработка
   - Дизайн постера
 
-  [Презентация](https://drive.google.com/file/d/1MvDvw5a0WxKYFbiUIoSE4L6uJSfEaU6Y/view?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/1B5XnxYlgAv0marIhlZoPxNajHWzkRfMD/view?usp=sharing)<br>
   [Материалы для урока](https://drive.google.com/drive/folders/1EVwKqQPxH2Kn8hm2ompFUgGBS-ftfvLi?usp=sharing)
 
   **🏠 Домашняя работа:**<br>
