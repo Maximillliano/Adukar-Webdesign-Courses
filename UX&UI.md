@@ -79,6 +79,9 @@
   - Telegram-каналы и книги для UX-дизайнера
 
 
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Повторить теоретические материалы (Основы дизайна, Гештальт, Диаграмма Гарретта, цветоведение)
 <br>
@@ -92,6 +95,10 @@
   - Настроить интерактивный прототип popup окна в Figma
   - Анализ проделанной работы и оценка уровня (модуль Веб-дизайн)
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Подготовка портфолио для анализа на Behance, ссылки на ваш: LinkedIn, Rabota.by, СV
 <br>
@@ -107,6 +114,10 @@
   - Конкуренция
   - Критическое мышление
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Корректирока CV, Rabota.by и LinkedIn
 Тестовое задание
@@ -122,6 +133,10 @@
   - Adobe Illustrator. Создание логотипа
   - Figma. Component, styles, autolayout
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Создание собственного логотипа по ТЗ
 Отретушировать изображение по материалам
@@ -142,6 +157,10 @@
   - Матрица идей
   - MVP
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Регистрация на Trello и выполнение первой карточки с заданием
 Обмен данными с членами команды
@@ -162,6 +181,10 @@
   - Авторское право
   - Выдача фриланс-проекта для анализа
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Создать техническое задание и бриф для проекта
 <br>
@@ -176,6 +199,10 @@
   - Persona (метод персон)
   - Пользовательские истории (user-stories) и сценарии
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Поиск целевой аудитории фриланс-проекта и детальный анализ
 Создание персоны и карты пользовательской истории
@@ -193,6 +220,10 @@
   - Карта стейкхолдеров
   - Value Proposition Canvas
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Создание карты Эмпатии и карты сайта для фриланс-проекта
 <br>
@@ -208,6 +239,10 @@
   - PPI и современные форматы
   - Autolayout и прилипание к Frame
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Создать адаптивную версию реального сайта для мобильной версии
 <br>
@@ -224,6 +259,10 @@
   - Яндекс метрика и Гугл аналитика
   - А/Б тестирование
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Проанализировать возможности Tilda в оптимизации SEO
 <br>
@@ -240,6 +279,10 @@
   - Создание адаптивной версии
   - Чистка макета
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Завершить Wireframe и prototype всех страниц сайта
 <br>
@@ -252,6 +295,10 @@
   - Создание дизайна по Moodboard двух вариаций макета
   - Защита макета перед преподавателей и утверждение
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Завершение дизайна страниц макета и адаптивной версии
 Чистка макета
@@ -266,6 +313,10 @@
   - Анализ проделанной работы и исправление дефектов
   - Подача макета для заказчика
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Завершение проекта и архивирование макета
 <br>
@@ -274,6 +325,10 @@
 ### Занятие 13. Проект-фриланс. Защита
 
   - Защита проекта
+  
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+
 <br>
 <br>
 
@@ -289,6 +344,10 @@
   - Особенности интерфейсов программного обеспечения
   - UI для VR, AR
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Найти ошибки на созданных макетов, провести UX-анализ
 <br>
@@ -306,6 +365,10 @@
   - Реклама и платная подписка
   - Promo-сайт
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Создать несколько ЦА, персона
 Создать Promo-сайт для рекламы будущего приложения
@@ -318,6 +381,10 @@
   - Wireframe
   - Экраны продаж
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Завершить Wireframe всех экранов приложения
 Создание прототипов экранов
@@ -331,6 +398,10 @@
   - Состояние интерактивных элементов: выпадающие списки, input, модульных окон
   - Анализ проделанной работы и исправление дефектов
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Завершить дизайн всех экранов приложения
 Чистка макета
@@ -344,6 +415,10 @@
   - Создание дизайна презентации
   - Раскадровка для анимации
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Завершение проекта и архивирование макета
 <br>
@@ -352,6 +427,10 @@
 ### Занятие 19. Мобильная игра. Защита
 
   - Защита проекта
+  
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 <br>
 <br>
 
@@ -362,6 +441,10 @@
   - Подготовка макета мобильного приложения для анимации
   - Анимирование и рэндер
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Анимация отдельных элементов мобильного приложения
 <br>
@@ -375,6 +458,10 @@
   - Преимущества программы
   - Создание интерфейса личного кабинета
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Завершить создание интерфейса личного кабинета и настройка прототипа
 <br>
@@ -392,6 +479,10 @@
   - Поиск вакансий и карьерный рост
   - Критерии успешности продукта
 
+
+  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
+  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  
 **🏠 Домашняя работа:**<br>
 Создание профиля на бирже фриланса
 <br>
