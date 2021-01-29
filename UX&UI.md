@@ -79,8 +79,7 @@
   - Telegram-каналы и книги для UX-дизайнера
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/14qdNPx6pGZHAbJPUFQALH18Hs1xHIyC5/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Повторить теоретические материалы (Основы дизайна, Гештальт, Диаграмма Гарретта, цветоведение)
@@ -96,8 +95,7 @@
   - Анализ проделанной работы и оценка уровня (модуль Веб-дизайн)
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/14WBXddrpcN1a2ocE4jQrlopaWa0v4qrd/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Подготовка портфолио для анализа на Behance, ссылки на ваш: LinkedIn, Rabota.by, СV
@@ -115,8 +113,7 @@
   - Критическое мышление
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/1-XFvVvfbYvp5wUog-TXiMZ5kfI1ZU2uU/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Корректирока CV, Rabota.by и LinkedIn
@@ -134,8 +131,7 @@
   - Figma. Component, styles, autolayout
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/1EZlkPu6VndL4Lk7eQbO5UIFc-Cx5_4xz/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Создание собственного логотипа по ТЗ
@@ -158,8 +154,7 @@
   - MVP
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/1k_-7OvyE-zYNcpic96aVvenJaLtmbM7A/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Регистрация на Trello и выполнение первой карточки с заданием
@@ -182,8 +177,7 @@
   - Выдача фриланс-проекта для анализа
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/148mj6MODUGtxtZrx-R_tlPKqB4tf0cif/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Создать техническое задание и бриф для проекта
@@ -200,8 +194,7 @@
   - Пользовательские истории (user-stories) и сценарии
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/1Ttci70L8PqqGG68ximUHWpx3pX2VjvQ_/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Поиск целевой аудитории фриланс-проекта и детальный анализ
@@ -221,8 +214,7 @@
   - Value Proposition Canvas
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/1EXxux-KjWPv5wafq7iswBgOZxvOy_h9G/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Создание карты Эмпатии и карты сайта для фриланс-проекта
@@ -240,8 +232,7 @@
   - Autolayout и прилипание к Frame
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/1FnHIYMqngmuAkB767_w4fRvbwJTV9Ww2/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Создать адаптивную версию реального сайта для мобильной версии
@@ -260,8 +251,7 @@
   - А/Б тестирование
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/1gmEZBllwyQS54tOMaFn9hidWSzP7HanY/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Проанализировать возможности Tilda в оптимизации SEO
@@ -280,8 +270,7 @@
   - Чистка макета
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/1xidNts52v1UBq82J5vF-xMHbfaPvTkgB/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Завершить Wireframe и prototype всех страниц сайта
@@ -296,8 +285,7 @@
   - Защита макета перед преподавателей и утверждение
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/1A0skQn5oeXywkjSUlj6k8tOnMUTM79dp/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Завершение дизайна страниц макета и адаптивной версии
@@ -312,10 +300,6 @@
   - Состояние кнопок, выпадающих списков, ссылок, input, окошек
   - Анализ проделанной работы и исправление дефектов
   - Подача макета для заказчика
-
-
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Завершение проекта и архивирование макета
@@ -325,9 +309,6 @@
 ### Занятие 13. Проект-фриланс. Защита
 
   - Защита проекта
-  
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
 
 <br>
 <br>
@@ -345,8 +326,7 @@
   - UI для VR, AR
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/10YF4RB9AqjwLK1anpB-8br2J8r-39Pbz/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Найти ошибки на созданных макетов, провести UX-анализ
@@ -364,10 +344,6 @@
   - Персона
   - Реклама и платная подписка
   - Promo-сайт
-
-
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Создать несколько ЦА, персона
@@ -380,10 +356,6 @@
   - Moodboard и конкуренты
   - Wireframe
   - Экраны продаж
-
-
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Завершить Wireframe всех экранов приложения
@@ -397,10 +369,6 @@
   - Оптимизация элементов (фотографии, компоненты и стили)
   - Состояние интерактивных элементов: выпадающие списки, input, модульных окон
   - Анализ проделанной работы и исправление дефектов
-
-
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Завершить дизайн всех экранов приложения
@@ -414,10 +382,6 @@
   - Создание wireframe и prototype презентации
   - Создание дизайна презентации
   - Раскадровка для анимации
-
-
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Завершение проекта и архивирование макета
@@ -427,9 +391,6 @@
 ### Занятие 19. Мобильная игра. Защита
 
   - Защита проекта
-  
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
   
 <br>
 <br>
@@ -442,8 +403,7 @@
   - Анимирование и рэндер
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/1DpneVkPdmeNWS-o2dphnUIna7VrC0Xf2/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Анимация отдельных элементов мобильного приложения
@@ -457,10 +417,6 @@
   - Прототипирование
   - Преимущества программы
   - Создание интерфейса личного кабинета
-
-
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Завершить создание интерфейса личного кабинета и настройка прототипа
@@ -480,8 +436,7 @@
   - Критерии успешности продукта
 
 
-  [Презентация](https://drive.google.com/file/d/1HuDAX0Z0JeF5MpjyyJ7NXxdLWhip6DKS/view?usp=sharing)<br>
-  [Материалы для урока](https://drive.google.com/drive/folders/12AwrvFmxzW89FB0cz-uL3iTvEZkYZ5wJ?usp=sharing)<br>
+  [Презентация](https://drive.google.com/file/d/1alRXnjIT3VhHJBmDUTpssnsosZ97Taai/view?usp=sharing)<br>
   
 **🏠 Домашняя работа:**<br>
 Создание профиля на бирже фриланса
