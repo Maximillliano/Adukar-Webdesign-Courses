@@ -13,11 +13,6 @@
   <a href="https://it-kursy.adukar.by/web-design/"><strong>Записаться на курсы»</strong></a>
   <br>
   <br>
-  Для добавления в группу телеграмм писать мне: 
-  <br>
-  <a href="https://t.me/amaximilian">Максимилиан Антипенко</a>
-  <br>
-  <br>
   <a href="https://adukar.by/"><strong>Сайт Адукар</strong></a>
   ·
   <a href="https://drive.google.com/file/d/18SZQ5TsL88SIAZJ6t4QqgzCZaiptRekq/view?usp=sharing"><strong>Модуль Веб-дизайн</strong></a>
