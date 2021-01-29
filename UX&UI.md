@@ -5,17 +5,12 @@
   <h3 align="center">UX/UI дизайн курс от Адукар</h3>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   По успешном окончании курса ты сможешь претендовать на позиции: 
   <br>
   graphic designer, junior web-designer, ux/ui designer
   <br>
   <a href="https://it-kursy.adukar.by/web-design/"><strong>Записаться на курсы»</strong></a>
-  <br>
-  <br>
-  Для добавления в группу телеграмм писать мне: 
-  <br>
-  <a href="https://t.me/amaximilian">Максимилиан Антипенко</a>
   <br>
   <br>
   <a href="https://adukar.by/"><strong>Сайт Адукар</strong></a>
@@ -31,7 +26,7 @@
   <a href="https://docs.google.com/document/d/18tDLTZ1L1EEsFFYB687xYW9K7qyxDGZJ_78cbfrRvQQ/edit?usp=sharing"><strong>Экзамен</strong></a>
   ·
   <a href="FAQ.md"><strong>Быстрые клавиши</strong></a>
-</p> -->
+</p>
 
 
 ## Содержание:
