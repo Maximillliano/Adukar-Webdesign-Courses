@@ -417,7 +417,7 @@
   - Защита в формате 1 на 1 с макетом на оценку
   - Тестовое задание
 
-  [Презентация](https://drive.google.com/file/d/1dsjIGoGkkfDZ7j7Hkqo3Xf3EaNFrr_Nz/view?usp=sharing)
+  [Презентация](https://docs.google.com/document/d/18tDLTZ1L1EEsFFYB687xYW9K7qyxDGZJ_78cbfrRvQQ/edit?usp=sharing)
 
   **🏠 Домашняя работа:**<br>
     1. Выбор темы по диплому
